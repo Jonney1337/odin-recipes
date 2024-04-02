@@ -1,0 +1,30 @@
+* {
+    background-color: #17aa97;
+}
+.header {
+    font-family: "Brush Script MT", "Times New Roman", Georgia;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    font-variant: small-caps;
+    color: rgb(133, 49, 0)
+}
+.lasagna-img img {
+    height: auto;
+    width: 500px;
+}
+.zwiebelrostbraten-img img {
+    height: auto;
+    width: 500px;
+}
+.one-pot-pasta-img img {
+    height: auto;
+    width: 500px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
