@@ -1,14 +1,14 @@
 * {
-    background-color: #17aa97;
+    background-color: #7a0101;
 }
 .header {
     font-family: "Brush Script MT", "Times New Roman", Georgia;
     font-weight: bold;
     text-align: center;
     font-style: italic;
-    font-size: 40px;
+    font-size: 50px;
     font-variant: small-caps;
-    color: rgb(133, 49, 0)
+    color: rgb(0, 140, 69)
 }
 .lasagna-img img {
     height: auto;
@@ -26,5 +26,20 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 500px;
+}
+.ing-header {
+    font-family: "Brush Script MT", "Times New Roman", Georgia;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    font-variant: small-caps;
+    color: rgb(133, 163, 0)
+}
+.text {
+    font-family: "Brush Script MT", "Times New Roman", Georgia;
+    text-align: center;
+    font-style: italic;
+    color: rgb(235, 235, 235);
 }
