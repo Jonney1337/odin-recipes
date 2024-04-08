@@ -24,9 +24,8 @@
 }
 .center {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 500px;
+    margin: 0 auto;
 }
 .ing-header {
     font-family: "Brush Script MT", "Times New Roman", Georgia;
@@ -40,7 +39,6 @@
 .text {
     font-family: "Brush Script MT", "Times New Roman", Georgia;
     text-align: center;
-    font-style: italic;
     color: rgb(235, 235, 235);
 }
 
